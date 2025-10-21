@@ -12,7 +12,7 @@
 ## Software
 
 - **OS:** Raspberry Pi OS (64-bit Lite)
-- **copyparty**
+
 
 ## Storage Setup
 
@@ -54,3 +54,18 @@
 
 - LXC provides more isolation than Docker but is lighter than a full VM. It's built into the Linux kernel.
 - Can be useful for more isolated "virtual machines" that share the host kernel.
+
+## Apps / Containers
+
+- Navidrome ( Spotify )
+- Stremio Selfhost / JellyFin ( Netflix )
+- copyparty ( fileserver )
+- Nextcloud ( google docs / humane fileserver )
+- Homepage
+- Portainer ( Container Manager )
+- Pi-Hole?
+- Watchtower ( Update Manager )
+- Immichi ( Image Manager )
+- Fail2Ban ( Security )
+- NetData ( Monitoring )
+- Duplicati? ( Backup Manager )
